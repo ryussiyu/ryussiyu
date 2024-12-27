@@ -17,11 +17,7 @@ Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Comput
 
 ---
 
-<h2>💻 Projects and Assignments</h2>
-
-### 🔖 **Course Assignments**
-All assignments and course-related projects are organized in a dedicated repository.  
-🔗 [View My Assignments Repository](https://github.com/your-github/assignments)
+<h2>💻 Projects</h2>
 
 ### 🌟 **Personal Projects**
 - **Tamagotchi-style Game (Work-in-Progress)**  
