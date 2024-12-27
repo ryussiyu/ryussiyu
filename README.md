@@ -1,72 +1,55 @@
-<h1>Hi, I'm Ru Xiu! <br/><a href="https://github.com/your-github">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/your-linkedin/">Creative Learner</a>, <a href="#">CS Student</a></h1>
-
-<h2>💻 Projects and Assignments:</h2>
-
-- <b>Design Thinking Project</b>
-  - Created a low-fidelity prototype using basic design thinking principles and Figma.
-  - Reflection: *This project introduced me to user-focused design, teamwork, and using Figma for prototyping.*  
-  - [View Project](#)
-- <b>Assignment 1: Poster</b>
-  - Visual presentation on [topic].  
-  - Reflection: *Improved my ability to communicate ideas visually.*
-  - [View Poster](#)
-- <b>Assignment 2: Video</b>
-  - A short video presentation about [topic].  
-  - Reflection: *Enhanced my video editing and storytelling skills.*  
-  - [Watch Video](#)
-- <b>Assignment 3: Report</b>
-  - A detailed report analyzing [topic].  
-  - Reflection: *Developed my technical writing skills.*  
-  - [Read Report](#)
-- <b>Assignment 4: Technical Paper (IEEE Format)</b>
-  - A technical paper in IEEE format on [topic].  
-  - Reflection: *Learned the importance of formal technical documentation.*  
-  - [Read Paper](#)
+<h1 align="center">Hi, I'm Ru Xiu! 👋</h1>
+<p align="center">
+  <a href="https://github.com/your-github">GitHub</a> |
+  <a href="https://your-github.github.io/">E-Portfolio</a> |
+  <a href="https://www.instagram.com/ryus.l/">Instagram</a>
+</p>
 
 ---
 
-<h2>🌟 Personal Projects:</h2>
+<h2>📖 About Me</h2>
 
-- <b>Tamagotchi-style Game (Work-in-Progress)</b>
-  - Collaborating with a friend to build a virtual pet simulation game using C++.
-  - Focus: Learning programming fundamentals, game logic, and teamwork in game development.
-  - [Explore Project](#)
+Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Computer Science (Software Engineering) at UTM. I have a Diploma in Animation and a passion for blending creativity and technology to create engaging projects. I’m now learning programming and game mechanics to turn my ideas into reality.
+
+- 🎮 Currently working on: *Tamagotchi-style Game (Personal Project)*  
+- ✨ Learning: **C++**, **Figma**, and exploring **Unity** and **Blender**  
+- 📚 Interests: Game development, animation, and user-centered design  
 
 ---
 
-<h2>📜 Skills & Tools:</h2>
+<h2>💻 Projects and Assignments</h2>
 
-- **Currently Learning**: C++ Programming, Figma  
+### 🔖 **Course Assignments**
+All assignments and course-related projects are organized in a dedicated repository.  
+🔗 [View My Assignments Repository](https://github.com/your-github/assignments)
+
+### 🌟 **Personal Projects**
+- **Tamagotchi-style Game (Work-in-Progress)**  
+  - Group of 2 people.  
+  - Focus: Learning programming fundamentals and game logic in C++.  
+
+---
+
+<h2>📜 Skills & Tools</h2>
+
+- **Currently Learning**: C++, Figma  
 - **In My Learning List**: Unity, Blender  
 - **Basic Design Tools**: Adobe Illustrator, Photoshop, After Effects, Premiere Pro  
 
 ---
 
-<h2>📖 Reflections:</h2>
+<h2>🌟 E-Portfolio</h2>
 
-- **Design Thinking**  
-  - Reflection: *Gained an understanding of user-centric design and creative problem-solving. Learning Figma allowed me to create a clear and presentable prototype.*  
-- **Assignments**  
-  - Reflections are included under each project and assignment section.
-- **Personal Project**  
-  - Reflection: *Collaborating on the Tamagotchi-style game has enhanced my teamwork and programming skills. It’s been a fun way to apply what I’m learning in a creative context.*
+My e-portfolio is a collection of my projects, reflections, and learning journey. You can explore it here:  
+🔗 [Visit My E-Portfolio](https://your-github.github.io/)
 
 ---
 
-<h2>📺 Learning Resources & Inspirations:</h2>
+<h2>🤳 Connect with Me</h2>
 
-- [Figma for Beginners](https://www.figma.com/resources/learn-design/)
-- [Intro to Game Development in Unity](https://learn.unity.com/)
-- [Blender Beginner Tutorials](https://www.blender.org/support/tutorials/)
-- [C++ Basics for Game Programming](https://cplusplus.com/doc/tutorial/)
+[<img align="left" alt="Ru Xiu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
-
-<h2>🤳 Connect with Me:</h2>
-
-[<img align="left" alt="Ru Xiu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/your-linkedin
+[instagram]: https://www.instagram.com/ryus.l/
 
 ---
 
