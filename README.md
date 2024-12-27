@@ -41,7 +41,7 @@ All assignments and course-related projects are organized in a dedicated reposit
 <h2>🌟 E-Portfolio</h2>
 
 My e-portfolio is a collection of my projects, reflections, and learning journey. You can explore it here:  
-🔗 [Visit My E-Portfolio](https://your-github.github.io/)
+🔗 [Visit My E-Portfolio]((https://ryussiyu.github.io/e-portfolio/))
 
 ---
 
