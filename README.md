@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ru Xiu! 👋</h1>
 <p align="center">
-  <a href="https://github.com/your-github">GitHub</a> |
-  <a href="https://your-github.github.io/">E-Portfolio</a> |
+  <a href="https://github.com/ryussiyu">GitHub</a> |
+  <a href="https://ryussiyu.github.io/e-portfolio/">E-Portfolio</a> |
   <a href="https://www.instagram.com/ryus.l/">Instagram</a>
 </p>
 
@@ -41,7 +41,7 @@ All assignments and course-related projects are organized in a dedicated reposit
 <h2>🌟 E-Portfolio</h2>
 
 My e-portfolio is a collection of my projects, reflections, and learning journey. You can explore it here:  
-🔗 [Visit My E-Portfolio]((https://ryussiyu.github.io/e-portfolio/))
+🔗 [Visit My E-Portfolio][(https://ryussiyu.github.io/e-portfolio/)](https://ryussiyu.github.io/e-portfolio/)
 
 ---
 
