@@ -21,7 +21,7 @@ Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Comput
 
 ### 🌟 **Group Assignment**
 - **Medical-Box**  
-🔗 [Group 5 Video Click Here][(https://www.youtube.com/watch?v=J9OxBC4-V2Q)]
+🔗 [Watch on YouTube](https://www.youtube.com/watch?v=J9OxBC4-V2Q)
 
 ### 🌟 **Personal Projects**
 - **Tamagotchi-style Game (Work-in-Progress)**  
