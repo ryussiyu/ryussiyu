@@ -20,8 +20,8 @@ Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Comput
 <h2>💻 Projects</h2>
 
 ### 🌟 **Group Assignment**
-- **Medical-Box**  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=J9OxBC4-V2Q)
+- **Medical-Box**
+- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=J9OxBC4-V2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 🌟 **Personal Projects**
 - **Tamagotchi-style Game (Work-in-Progress)**  
@@ -41,7 +41,7 @@ Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Comput
 <h2>🌟 E-Portfolio</h2>
 
 My e-portfolio is a collection of my projects, reflections, and learning journey. You can explore it here:  
-🔗 [Visit My E-Portfolio][(https://ryussiyu.github.io/e-portfolio/)](https://ryussiyu.github.io/e-portfolio/)
+🔗 [Visit My E-Portfolio](https://ryussiyu.github.io/e-portfolio/)
 
 ---
 
