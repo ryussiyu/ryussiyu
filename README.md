@@ -20,7 +20,7 @@ Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Comput
 <h2>💻 Projects</h2>
 
 ### 🌟 **TIS Group Assignment - Group 5**
-- **Medical-Box**
+- **Smart Clinic System (Medi-Box)**
 - 🔗 [Watch on YouTube](https://www.youtube.com/embed/J9OxBC4-V2Q)
 
 ### 🌟 **Personal Projects**
