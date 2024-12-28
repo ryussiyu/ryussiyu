@@ -19,7 +19,7 @@ Hi, I’m Ru Xiu, a creative learner currently pursuing a Bachelor’s in Comput
 
 <h2>💻 Projects</h2>
 
-### 🌟 **Group Assignment**
+### 🌟 **Group Assignment - Group 5**
 - **Medical-Box**
 - 🔗 [Watch on YouTube](https://www.youtube.com/embed/J9OxBC4-V2Q)
 
